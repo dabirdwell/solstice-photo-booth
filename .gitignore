@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Photos (user content)
+photos/*.JPG
+photos/*.jpg
+photos/*.png
+
+# macOS
+.DS_Store
+*.swp
+
+# Generated overlays (regenerate with node generate-overlays.js)
+# Uncomment if you want to exclude these:
+# overlays/*.png
+
+# Test files
+test_output.png
+
+# App bundles
+TakePhoto.app/
