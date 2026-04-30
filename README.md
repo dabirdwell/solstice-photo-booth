@@ -160,3 +160,6 @@ MIT License - See LICENSE file
 Built collaboratively by David and Claude (Anthropic) during Winter Solstice 2024-2025.
 
 A demonstration of human-AI collaborative development for real-world projects.
+---
+
+<p align="center"><em>Æ</em></p>
